@@ -33,8 +33,8 @@ $\Delta E_p$ is a crucial diagnostic criterion. For an ideal, fully reversible s
 ## Alternative Code (Multi-condition)
 This alternative contains a high-throughput R pipeline designed to validate and quantify surface modifications on Screen-Printed Electrodes (SPEs). It automatically parses multi-condition Cyclic Voltammetry (CV) data to track how distinct functionalization protocols (and varying incubation/reaction times) alter the thermodynamics and kinetics of electron transfer.
 *(Note: Specific biological targets and proprietary analyte identifiers have been obfuscated to generic "Functionalized" tags to protect ongoing, unpublished research).*
-
 ## Author
 **Felipe Longaray Kadel**
 *Materials Engineering Undergraduate - UFRGS*
-felipe.longaray@ufrgs.br
+* felipe.longaray@ufrgs.br
+
