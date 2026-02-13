@@ -2,6 +2,7 @@
 
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Data processing: PalmSens](https://img.shields.io/badge/Instrument-PalmSens_PSTrace-lightgrey.svg)]()
 
 This repository contains an automated R pipeline for processing Cyclic Voltammetry (CV) data. It is designed to extract key thermodynamic and kinetic parameters from raw multicycle instrument exports (such as those from PalmSens PSTrace) without relying on manual peak picking.
 
