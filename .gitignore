@@ -1,0 +1,15 @@
+# R specific files
+.RData
+.Rhistory
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Ignore raw and exported Excel data
+*.xlsx
+*.csv
+*.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
